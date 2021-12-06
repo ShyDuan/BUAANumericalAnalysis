@@ -1,0 +1,12 @@
+﻿  Question3.cpp
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(41,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(42,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(54,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(81,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(105,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(142,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(344,5): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(452,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(453,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(534): warning C4715: “SurfFit”: 不是所有的控件路径都返回值
+  Question3.vcxproj -> C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\x64\Debug\Question3.exe

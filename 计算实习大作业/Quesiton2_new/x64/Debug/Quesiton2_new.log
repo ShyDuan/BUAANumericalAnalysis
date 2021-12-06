@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Quesiton2_new.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Quesiton2_new.cpp
+  Quesiton2_new.vcxproj -> C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\x64\Debug\Question2_new.exe

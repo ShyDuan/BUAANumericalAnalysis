@@ -1,0 +1,19 @@
+﻿  Question3.cpp
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(21,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(22,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(20,18): warning C4101: “n”: 未引用的局部变量
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(38,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(39,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(51,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(52,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(73,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(97,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(218,5): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(329,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(330,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\Question3\Question3.cpp(390): warning C4715: “SurfFit”: 不是所有的控件路径都返回值
+  All 251 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Question3.vcxproj -> C:\Users\DSY\Documents\研究生课程\数值分析\计算实习大作业\计算实习大作业\x64\Release\Question3.exe
